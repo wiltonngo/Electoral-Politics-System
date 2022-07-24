@@ -14,3 +14,8 @@ PrecinctVotingData: Feature data for California precincts for the 2012 election.
   b.	proposition_37_yes_votes: a field containing the number of individuals that voted for the measure in the precinct
 
 You Calculate the Percentage of the People who voted Yes for the Cause/ How many voters
+
+
+## Findings
+
+Our finding has been dived by five cateogries where people voted Yes. Plus the Country names of the Country
